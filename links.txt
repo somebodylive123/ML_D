@@ -1,0 +1,2 @@
+Ссылка откуда брал текст для датасета: https://helpdesk.bitrix24.ru/
+Ссыока на модель: https://huggingface.co/ai-forever/rugpt3medium_based_on_gpt2
