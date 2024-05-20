@@ -1,0 +1,6 @@
+venv/
+rugpt3/
+rugpt3_finetuned/
+bitrix_articles.txt
+bitrix24_helpdesk_data.csv
+.idea/
